@@ -28,7 +28,7 @@ Set that output as `ADMIN_PASSWORD_HASH`. Never expose `SUPABASE_SERVICE_ROLE_KE
 
 ## Business contact note
 
-The listed Aravind contact is `+91 770844875` (9 digits after `+91`), which is not a valid 10-digit Indian mobile number. It is displayed as supplied and remains callable, but WhatsApp submission is blocked until the business supplies the corrected number. Update `TEAM` in `lib/constants.ts` once verified; do not guess the missing digit.
+Aravind's contact number is `+91 7708448375`. WhatsApp links use the international number `917708448375`.
 
 ## Production
 
