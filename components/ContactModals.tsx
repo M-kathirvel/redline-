@@ -51,7 +51,7 @@ export default function ContactModals() {
         setError(`${member.name}'s listed number is ${member.digits.length} digits, not a valid 10-digit Indian mobile number. Please contact Redline by email or Instagram until the number is corrected.`);
         return;
       }
-      const digits = member.digits.startsWith("91") ? member.digits : `91${member.digits}`;
+      const digits = `91${member.digits}`;
       window.open(`https://wa.me/${digits}?text=${encodeURIComponent(message)}`, "_blank", "noopener,noreferrer");
       setTarget(null);
     } else if (target.channel === "instagram") {

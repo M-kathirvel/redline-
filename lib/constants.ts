@@ -22,7 +22,7 @@ export const PORTFOLIO_FILTERS = [
 ] as const;
 
 export const TEAM = [
-  { name: "Aravind", phone: "+91 7708448375", digits: "917708448375" },
+  { name: "Aravind", phone: "+91 7708448375", digits: "7708448375" },
   { name: "Harish", phone: "+91 7810084560", digits: "7810084560" },
   { name: "Naveen", phone: "+91 8925452654", digits: "8925452654" }
 ] as const;

@@ -28,7 +28,7 @@ Set that output as `ADMIN_PASSWORD_HASH`. Never expose `SUPABASE_SERVICE_ROLE_KE
 
 ## Business contact note
 
-Aravind's contact number is `+91 7708448375`. WhatsApp links use the international number `917708448375`.
+Aravind's 10-digit contact number is stored as `7708448375`, displayed as `+91 7708448375`, and prefixed with `91` when generating the WhatsApp link.
 
 ## Production
 
